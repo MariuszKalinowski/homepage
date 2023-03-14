@@ -22,7 +22,7 @@
 .table__row:hover {
     background-color: #eee;
 }
-.dark .table__row:hover {
+.body--dark .table__row:hover {
     background-color: #e58b0e57;
 }
 

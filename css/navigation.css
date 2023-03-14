@@ -19,13 +19,13 @@
 .navigation__link:active {
     color:  hsl(25, 98%, 60%);
 }
-.dark .navigation__link {
+.body--dark .navigation__link {
     color: hsl(180, 98%, 55%);
 }
-.dark .navigation__link:hover {
+.body--dark .navigation__link:hover {
     color: hsl(180, 98%, 95%);
 }
-.dark .navigation__link:active {
+.body--dark .navigation__link:active {
     color: hsl(180, 98%, 35%);
 }
 
