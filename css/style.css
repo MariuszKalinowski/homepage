@@ -1,0 +1,49 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+ 
+}
+
+.body {
+    max-width: 1000px;
+    margin: 0px auto;
+    text-align: center;
+    color: rgb(108 59 59);
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.dark {
+    color: rgb(238 238 238);
+    background: hsla(73, 34%, 26%, 0.811);
+}
+.header {
+    margin:0px auto;
+    background-color: #e58b0e57;    
+    outline: 1px solid currentColor;
+}
+.footer {
+    margin-top: 20px;
+}
+.container {
+    overflow-x: auto;
+}
+
+.button {
+    background-color:  hsla(73, 34%, 26%, 0.811);
+    color: #eee;
+    width: 150px;
+    border-radius: 5px;
+    border: 0px;   
+}
+.dark .button {
+    background-color: #ddd;
+    color: rgb(108 59 59);
+    font-weight: bold;
+    font-size: large;
+}
+
+
+

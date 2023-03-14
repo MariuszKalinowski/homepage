@@ -1,0 +1,24 @@
+.element {
+    padding: 5px 20px;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 1.5;
+}
+
+
+.article__header {
+    background-color: #e58b0e57;
+    outline: 1px solid currentColor;
+    margin: 10px auto;
+ }
+           
+.article__image {
+    max-width: 500px;
+    max-height: 350px;
+    width: 100%;
+}
+
+.article__item {
+    list-style-type: none;
+}
+

@@ -1,0 +1,32 @@
+.contact {
+    border: 1px dashed rgb(120, 172, 85);
+    border-radius: 20px;
+    list-style-type: none;
+}
+    
+.contact__name {
+    text-shadow: 4px 3px 14px rgba(229, 139, 14, 1);
+}    
+ .contact__link {
+    color: hsl(25, 98%, 20%);
+}
+.contact__link:visited {
+    color: none;
+}    
+.contact__link:hover {
+    color: hsl(25, 98%, 40%); 
+    outline: none;
+}
+.contact__link:active {
+    color: hsl(25, 98%, 60%);
+}
+    
+.dark .contact__link {
+    color: hsl(180, 98%, 55%);
+}
+.dark .contact__link:hover {
+    color: hsl(180, 98%, 95%);
+}
+.dark .contact__link:active {
+    color: hsl(180, 98%, 35%);
+}
