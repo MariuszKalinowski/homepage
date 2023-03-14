@@ -1,7 +1,7 @@
 # Homepage
 
 ## Demo
-[![Watch the video](https://www.veed.io/embed/9ce92ee4-03e0-49a8-a122-87fedc2d29d1)
+![Demo gif](image/demo.gif)
 
 
 https://mariuszkalinowski.github.io/homepage/
