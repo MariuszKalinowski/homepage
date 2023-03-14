@@ -15,7 +15,7 @@ html {
     text-align: center;
     font-family: 'Quicksand', sans-serif;
 }
-.dark {
+.body--dark {
     color: rgb(238 238 238);
     background: hsla(73, 34%, 26%, 0.811);
 }
@@ -37,8 +37,10 @@ html {
     width: 150px;
     border-radius: 5px;
     border: 0px;   
+    font-weight: bold;
+    font-size: large;
 }
-.dark .button {
+ .body--dark .button  {
     background-color: #ddd;
     color: rgb(108 59 59);
     font-weight: bold;
