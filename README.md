@@ -1,7 +1,7 @@
 # Homepage
 
 ## Demo
-![Demo gif](image/demo.gif)
+![Demo gif](https://github.com/MariuszKalinowski/homepage/blob/main/image/Demo.gif)
 
 
 https://mariuszkalinowski.github.io/homepage/
